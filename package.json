@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-to-print": "^2.14.7",
+    "recharts": "^2.1.9"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
